@@ -1,0 +1,1 @@
+export const URL = "https://blog-application-ueet.vercel.app"
