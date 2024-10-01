@@ -1,1 +1,1 @@
-export const URL = "https://blog-application-backend-lime.vercel.app"
+export const URL = "https://blogapplicationbackend-zvyawmfr.b4a.run"
